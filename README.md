@@ -1,39 +1,46 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+Resume Mini Project
+by Donal O'Farrell
 
-Welcome dof-bull,
+User-Centric Frontend Development - Code Institute
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+Introduction text goes here.
 
-## Gitpod Reminders
+UX
+Explain the design thought of the site here.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Technologies
+HTML
+CSS
+Bootstrap (4.3)
 
-`python3 -m http.server`
+Features
+Detail of what the site cotains goes here.
 
-A blue button should appear to click: *Make Public*,
+Features Left to Implement
+Any future features you would like to add.
 
-Another blue button should appear to click: *Open Browser*.
+Testing
+Do a range of user stories and explain the paths they can take here.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Deployment
+This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html.
 
-A blue button should appear to click: *Make Public*,
+To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://github.com/dof-bull/ci_milestone_project_1_Vandal_Youth.git into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
 
-Another blue button should appear to click: *Open Browser*.
+Credits
+Content
+Give credit for any content use here.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+Media
+Give media for any content use here.
 
-## Updates Since The Instructional Video
+Acknowledgements
+Give credit where it is due.
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+Examples:
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+The table element taken directly from Bootstrap though heavily adapted for audio purposes.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+The video player element was based on the example (https://www.w3schools.com/html/html5_video.asp).
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+This project is for education purposes and not for commercial purposes
