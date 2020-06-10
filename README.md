@@ -35,7 +35,8 @@ Media
 Give media for any content use here.
 
 Acknowledgements
-Give credit where it is due.
+Font Awesome for use of Roberto font.
+
 
 Examples:
 
