@@ -35,13 +35,9 @@ Media
 Give media for any content use here.
 
 Acknowledgements
-Font Awesome for use of Roberto font.
 
-
-Examples:
-
-The table element taken directly from Bootstrap though heavily adapted for audio purposes.
-
-The video player element was based on the example (https://www.w3schools.com/html/html5_video.asp).
+Google Fonts for use of Roberto font (https://fonts.google.com/)
+Font Awesome for use of icons (https://fontawesome.com/v4.7.0/icons/)
+Animations taken from Hover.csss (http://ianlunn.github.io/Hover/)
 
 This project is for education purposes and not for commercial purposes
