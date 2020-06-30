@@ -3,7 +3,7 @@ by Donal O'Farrell
 
 User-Centric Frontend Development - Code Institute
 
-Introduction text goes here.
+This is the walkthrough resume mini project from User-Centric Frontend Development module.
 
 UX
 Explain the design thought of the site here.
